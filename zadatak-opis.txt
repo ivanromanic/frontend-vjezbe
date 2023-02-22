@@ -1,0 +1,3 @@
+Prvi "ozbiljniji" zadatak iz tutoriala. HTML i CSS su zadani gotovi, ja sam napisao js dio i malo izmijenio HTML dio(dodao neke ideve u tagove da bi mi radio js dio)
+Web stranica ima dvije 6d kocke koje se trebaju "bacati" pri svakom osviježavanju stranice te se h1 treba mijenjati u skladi tko je pobijedio; player 1 ili
+player2 ili je neriješeno.
